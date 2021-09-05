@@ -1,0 +1,23 @@
+{
+  "name": "JEST-javascript-testing",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronh1986/JEST-javascript-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronh1986/JEST-javascript-testing/issues"
+  },
+  "homepage": "https://github.com/aaronh1986/JEST-javascript-testing#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
