@@ -19,5 +19,8 @@
   "homepage": "https://github.com/aaronh1986/JEST-javascript-testing#readme",
   "devDependencies": {
     "jest": "^27.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.3"
   }
 }
